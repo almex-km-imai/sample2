@@ -2,3 +2,4 @@ Tokyo
 Nagoya
 Osaka
 Kyoto
+fukuoka
